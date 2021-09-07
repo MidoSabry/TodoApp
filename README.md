@@ -1,4 +1,5 @@
 # todo_app
+Todo app to make CRUD (create,insert,update,delete) with SQFLite and using BLOC state management with cubit
 
 A new Flutter project.
 
